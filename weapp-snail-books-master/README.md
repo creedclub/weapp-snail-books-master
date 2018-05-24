@@ -44,12 +44,6 @@
 * [百度地图api](http://lbsyun.baidu.com/index.php?title=webapi/guide/webservice-geocoding-abroad)
 
 
-## 联系我
-由于慕课取消了qq群，大家加我微信交流吧 
-
-<img width='400px' src="./other/woniu.png">
-
-或者 [知乎](https://www.zhihu.com/people/woniuppp) / [微博](https://weibo.com/woniuppp/home?wvr=5)
 
 ## 课程脑图
 
